@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day1_RiKao.iml" filepath="$PROJECT_DIR$/Day1_RiKao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawkongjian/drawkongjian.iml" filepath="$PROJECT_DIR$/drawkongjian/drawkongjian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erweima/erweima.iml" filepath="$PROJECT_DIR$/erweima/erweima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flowlayoutdemo/flowlayoutdemo.iml" filepath="$PROJECT_DIR$/flowlayoutdemo/flowlayoutdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liaorongpu_0509/liaorongpu_0509.iml" filepath="$PROJECT_DIR$/liaorongpu_0509/liaorongpu_0509.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liaorongpu_0510/liaorongpu_0510.iml" filepath="$PROJECT_DIR$/liaorongpu_0510/liaorongpu_0510.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liaorongpu_0511/liaorongpu_0511.iml" filepath="$PROJECT_DIR$/liaorongpu_0511/liaorongpu_0511.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mxlistview/mxlistview.iml" filepath="$PROJECT_DIR$/mxlistview/mxlistview.iml" />
+    </modules>
+  </component>
+</project>
